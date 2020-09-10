@@ -1,0 +1,8 @@
+notebooks/.ipynb_checkpoints
+.idea/
+modules/__pycache__/
+*/*/*.pyc
+*/*/.ipynb_checkpoints
+*/*/__pycache__/
+notebooks/
+misc_stuff/
