@@ -2,7 +2,7 @@
 
 This repository contains source code for MM-GAN: [Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network](https://ieeexplore.ieee.org/document/8859286). MM-GAN is a novel GAN-based approach that allows synthezing missing pulse sequences (modalities) for an MRI scan. For more details, please refer to the paper. 
 
-To cite:
+To cite the paper (IEEE TMI):
 ```
 @ARTICLE{Sharma20,
   author={A. {Sharma} and G. {Hamarneh}},
@@ -22,8 +22,7 @@ To cite this repository:
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/trane293/mm-gan}},
-  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+  howpublished = {\url{https://github.com/trane293/mm-gan}}
 }
 ```
 
