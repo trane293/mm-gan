@@ -1,6 +1,6 @@
 # MM-GAN: Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network 
 
-This repository contains source code for MM-GAN: [Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network](https://ieeexplore.ieee.org/document/8859286). MM-GAN is a novel GAN-based approach that allows synthezing missing pulse sequences (modalities) for an MRI scan. For more details, please refer to the paper. 
+This repository contains source code for MM-GAN: [Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network](https://ieeexplore.ieee.org/document/8859286). MM-GAN is a novel GAN-based approach that allows synthesizing missing pulse sequences (modalities) for an MRI scan. For more details, please refer to the paper. 
 
 To cite the paper (IEEE TMI):
 ```
